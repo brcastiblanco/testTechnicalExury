@@ -9,12 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@emotion/react": "latest",
-    "@emotion/styled": "latest",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
     "@mui/icons-material": "next",
-    "@mui/material": "next",
+    "@mui/material": "^6.0.0-alpha.14",
+    "@types/react-router-dom": "^5.3.3",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-router-dom": "^6.24.1"
   },
   "devDependencies": {
     "@types/react": "latest",
